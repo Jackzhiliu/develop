@@ -1,0 +1,14 @@
+/Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/deps/libpyo3_build_config-88ef1a9ce250dc2a.rmeta: /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out/pyo3-build-config-file.txt /Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out/pyo3-build-config.txt
+
+/Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/deps/libpyo3_build_config-88ef1a9ce250dc2a.rlib: /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out/pyo3-build-config-file.txt /Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out/pyo3-build-config.txt
+
+/Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/deps/pyo3_build_config-88ef1a9ce250dc2a.d: /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out/pyo3-build-config-file.txt /Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out/pyo3-build-config.txt
+
+/Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs:
+/Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs:
+/Users/zhiliuhu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs:
+/Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out/pyo3-build-config-file.txt:
+/Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.21.2
+# env-dep:OUT_DIR=/Users/zhiliuhu/GraduateDesign/xcrypto-main/xcrypto/target/debug/build/pyo3-build-config-081515e45e78aefd/out
